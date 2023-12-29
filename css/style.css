@@ -58,7 +58,7 @@ body {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  
+  padding-bottom: 30%;
 }
 
 .flex_column_center {
@@ -67,7 +67,7 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  padding-bottom: 30%;
+
 }
 
 .flex_row_center {
